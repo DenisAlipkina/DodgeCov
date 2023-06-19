@@ -1,0 +1,54 @@
+.menu-container {
+    padding-right: 50px;
+    padding-left: 50px;
+    overflow-y: auto;
+    max-height: 100%;
+}
+
+.menu-container img {
+    width: 30%;
+    height: 30%;
+    display: block;
+    /* remove extra space below image */
+    margin: 0 auto;
+}
+
+.button,
+.cancel-button,
+button:disabled,
+button[disabled] {
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    background: #ce673e 0% 0% no-repeat padding-box;
+    border: 1px solid #70707000;
+    border-radius: 34px;
+    text-align: center;
+    font-size: Medium 30px/100px Roboto;
+    font-weight: bold;
+    letter-spacing: 2.1px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.cancel-button {
+    background: #e39428 0% 0% no-repeat padding-box;
+    font-weight: normal;
+}
+
+button:disabled,
+button[disabled] {
+    background: rgb(149, 151, 151) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}

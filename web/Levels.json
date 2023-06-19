@@ -1,0 +1,11 @@
+[{ "Level" : [1, true, true], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 1000, "virus" : [30, 7]},
+{ "Level" : [2, false, false], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 2000, "barricade" : [65, 4.8], "virus" : [40, 7]},
+{ "Level" : [3, false, true], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 2000, "barricade" : [90, 4.8], "drain" : [80, 4.8], "virus" : [40, 7]},
+{ "Level" : [4, false, false], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 3000, "drain" : [120, 4.8], "car" : [90, 8], "virus" : [40, 7]},
+{ "Level" : [5, false, false], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 3000, "car" : [220, 8], "deadlyvirus" : [470, 4.8, 3], "virus" : [60, 7]},
+{ "Level" : [6, false, true], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 4000, "mask" : [730, 4.8], "virus" : [20, 6]}, 
+{ "Level" : [7, false, true], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 4000, "syringe" : [970, 4.8], "mask" : [770, 4.8], "virus" : [30, 6], "deadlyvirus" : [180, 8, 3]},
+{ "Level" : [8, false, false], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 5000, "drain" : [170, 4.8], "syringe" : [970, 4.8], "mask" : [770, 4.8], "virus" : [50, 6], "deadlyvirus" : [250, 7, 2.5]},
+{ "Level" : [9, false, false], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 5000, "barricade" : [470, 4.8], "drain" : [170, 4.8], "syringe" : [970, 4.8], "mask" : [770, 4.8], "virus" : [40, 6], "deadlyvirus" : [320, 7, 2]},
+{ "Level" : [10, false, false], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 6000, "drain" : [220, 4.8], "syringe" : [970, 4.8], "mask" : [770, 4.8], "car" : [300, 18], "virus" : [40, 7], "deadlyvirus" : [340, 7, 2]},
+{ "Level" : [11, false, false], "BaseSpeed" : 4.8, "PlayerSpeed" : 5, "length" : 7000, "drain" : [220, 4.8], "mask" : [770, 4.8], "car" : [60, 21], "virus" : [40, 7]}  ]
